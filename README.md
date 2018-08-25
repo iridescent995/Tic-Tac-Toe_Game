@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-A simple Tic Tac Toe game using JavaScript.
+A simple 2 player Tic Tac Toe game using JavaScript.
 
 ================================================
 
